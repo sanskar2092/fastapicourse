@@ -7,3 +7,13 @@ psycopg2
 
 # env vars
 python-dotenv
+
+
+# email validations
+pydantic[email]
+
+# logging
+loguru
+
+# hashing
+passlib[bcrypt]
