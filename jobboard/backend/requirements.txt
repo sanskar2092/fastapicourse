@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 
-# DB
+# database and orm
 SQLAlchemy
 psycopg2
 
@@ -15,5 +15,9 @@ pydantic[email]
 # logging
 loguru
 
-# hashing
+# hashing passwords
 passlib[bcrypt]
+
+# testing
+pytest
+requests

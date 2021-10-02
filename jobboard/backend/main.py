@@ -2,7 +2,7 @@ from fastapi import FastAPI
 import sys
 from core.config import settings
 from db.session import engine
-from db.models.base import Base
+from db.base import Base
 from loguru import logger
 from apis.base import api_router
 import uvicorn
