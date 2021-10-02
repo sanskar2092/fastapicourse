@@ -135,3 +135,8 @@ dmypy.json
 # env vars
 .env
 .env/
+
+test_db.db
+.pytest_cache
+htmlcov
+.coverage

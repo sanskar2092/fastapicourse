@@ -21,3 +21,6 @@ passlib[bcrypt]
 # testing
 pytest
 requests
+
+# coverage
+pytest-cov
