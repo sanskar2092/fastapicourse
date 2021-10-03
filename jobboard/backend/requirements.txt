@@ -24,3 +24,9 @@ requests
 
 # coverage
 pytest-cov
+
+# jwc token
+python-jose
+
+# form data handling
+python-multipart
